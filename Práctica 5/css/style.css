@@ -1,0 +1,29 @@
+p {
+  font-family: "raleway" 
+}
+h1 {
+	color: #010101; 
+	font-size: h1;
+	font-family:"raleway", bold;
+}
+
+h2 {
+	color: #434343; 
+	font-size: h2;
+	font-family:"raleway", bold;
+	
+}
+
+h3 {
+	color: #434343; 
+	font-size: h3;
+	font-family:"raleway", bold;
+	
+}
+
+
+p{
+	color: #6B6B6B;
+	font-family:"raleway";
+	font-size: h5;
+}
